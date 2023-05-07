@@ -92,7 +92,7 @@ docker build -t chatgpt-web-service .
 
 
 # 后台运行
-docker run --name chatgpt-web-service -d -p 127.0.0.1:3002:3002 --env OPENAI_API_KEY=your_api_key chatgpt-web-service
+docker run --name chatgpt-web-service -d -p 0.0.0.0:3002:3002 --env OPENAI_API_KEY=your_api_key chatgpt-web-service
 
 # 运行地址
 http://localhost:3002/
