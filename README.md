@@ -1,6 +1,6 @@
 #chatgpt流式调用，前端实现打印机效果
 本项目为后端项目，与前端项目搭配使用，（本人公众号：AI小新）
-![image](public/image/20190528145810708.png)/aixiaoxin.jpg)
+![image](aixiaoxin.jpg)
 
 前端项目地址：https://github.com/aixioaxin/chatgpt_stream_web_front
 
