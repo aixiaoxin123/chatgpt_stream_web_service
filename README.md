@@ -2,7 +2,7 @@
 本项目为后端项目，与前端项目搭配使用，（本人公众号：AI小新）
 ![image](aixiaoxin.png)
 
-前端项目地址：https://github.com/aixioaxin/chatgpt_stream_web_front
+前端项目地址：https://github.com/aixiaoxin123/chatgpt_stream_web_front
 
 
 ## 前置要求
